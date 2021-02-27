@@ -1,0 +1,4 @@
+D:\C语言练习\1.23\Debug\1.23.exe
+D:\C语言练习\1.23\Debug\1.23.pdb
+D:\C语言练习\test 1.23\test 1.23 求1000到2000的闰年\Debug\1.23.exe
+D:\C语言练习\test 1.23\test 1.23 求1000到2000的闰年\Debug\1.23.pdb

@@ -1,0 +1,2 @@
+D:\C语言练习\test.c\Debug\test.c.exe
+D:\C语言练习\test.c\Debug\test.c.pdb
